@@ -1,2 +1,0 @@
-# BibleFrench
-BibleFrench
